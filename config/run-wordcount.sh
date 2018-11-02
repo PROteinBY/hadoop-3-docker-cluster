@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# test the hadoop cluster by running wordcount
-
 # create input files 
 mkdir input
 echo "Hello Docker" >input/file2.txt
